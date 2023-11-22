@@ -11,6 +11,7 @@
 <img src="./public/images/punto-2.png">
 
 <h2>punto 3: Sumas de dos numero indicados por el usuario </h2>
+<img src="./public/images/punto-3.png">
 
 <h2>punto 4: Datos del usuario en consola</h2>
 
