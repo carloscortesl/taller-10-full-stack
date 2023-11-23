@@ -19,7 +19,6 @@
 <h2>punto 5: Entrada de bolera usando if / else</h2>
 <img src="./public/images/punto-5.png">
 
-
 <h2>punto 6: Detencion de mayoría de edad</h2>
 
 <h2>punto 7: Seleccion de operación arimetica </h2>
