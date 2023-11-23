@@ -14,6 +14,7 @@
 <img src="./public/images/punto-3.png">
 
 <h2>punto 4: Datos del usuario en consola</h2>
+<img src="./public/images/punto-4.png">
 
 <h2>punto 5: Entrada de bolera usando if / else</h2>
 
