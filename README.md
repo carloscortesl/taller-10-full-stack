@@ -20,6 +20,7 @@
 <img src="./public/images/punto-5.png">
 
 <h2>punto 6: Detencion de mayoría de edad</h2>
+<img src="./public/images/punto-6.png">
 
 <h2>punto 7: Seleccion de operación arimetica </h2>
 
