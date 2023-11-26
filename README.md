@@ -23,6 +23,7 @@
 <img src="./public/images/punto-6.png">
 
 <h2>punto 7: Seleccion de operación arimetica </h2>
+<img src="./public/images/punto-7.png">
 
 <h2>punto 8: Entrada a la bolera usando Switch</h2>
 
