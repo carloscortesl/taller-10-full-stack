@@ -38,6 +38,7 @@
 <img src="./public/images/punto-11.png">
 
 <h2>punto 12: Tabla de multiplacar usando for</h2>
+<img src="./public/images/punto-12.png">
 
 <h2>punto 13: Suma de valores de un arreglo usando foreach</h2>
 
