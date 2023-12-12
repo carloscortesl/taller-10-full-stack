@@ -29,7 +29,7 @@
 <img src="./public/images/punto-8.png">
 
 <h2>punto 9: Tabla de multiplicar usando While</h2>
-<img src="./public/images/punto-9.png>
+<img src="./public/images/punto-9.png">
 
 <h2>punto 10: Numeros pares usando while</h2>
 
