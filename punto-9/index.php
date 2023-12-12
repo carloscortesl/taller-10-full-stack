@@ -1,8 +1,6 @@
 <?php
 $number = 0;
 $i = 0;
-
-
 echo "Digite el numero a  multiplicar: ";
 $number = readline();
 while($i <= 30){
