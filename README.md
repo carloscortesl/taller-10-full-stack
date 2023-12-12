@@ -35,6 +35,7 @@
 <img src="./public/images/punto-10.png">
 
 <h2>punto 11: Numeros impares usando for</h2>
+<img src="./public/images/punto-11.png">
 
 <h2>punto 12: Tabla de multiplacar usando for</h2>
 
