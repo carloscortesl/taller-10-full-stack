@@ -48,3 +48,5 @@
 <img src="./public/images/punto-14.png">
 
 <h2>punto 15: Seleccion de operación arimetrica usando funciones</h2>
+<img src="./public/images/punto-15a.png">
+<img src="./public/images/punto-15b.png">
